@@ -1,1 +1,1 @@
-# capture-the-diamond-
+# Capture-The-Diamond
